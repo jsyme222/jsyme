@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+jsyme/media/*
+jsyme/static/*
+*.idea/*
+*/.env
 __pycache__/
 *.py[cod]
 *$py.class
